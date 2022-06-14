@@ -89,7 +89,7 @@ function SignUpPage(){
             </div>
                 <div style={{display: 'flex', alignItems: 'center'}}>Name: </div>
             <div>
-                <input style={form.name.length >= 1 ? style : null} className={'signuppage-input'} onFocus={nameClickHandle} onBlur={nameClickHandle} placeholder={'e.g. Alua'} type={'text'} name={'name'} value={form.name} onChange={changeHandler}/>
+                <input style={form.name.length >= 1 ? style : null} className={'signuppage-input'} onFocus={nameClickHandle} onBlur={nameClickHandle} placeholder={'e.g. Akezhan'} type={'text'} name={'name'} value={form.name} onChange={changeHandler}/>
                 {/*{form.name.length >= 1 && <span className="checkmark">*/}
                 {/*    <div className="checkmark_circle"/>*/}
                 {/*    <div className="checkmark_stem"/>*/}

@@ -15,7 +15,6 @@ function ContactsPage(){
                     <article style={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column'}}>
                     <h1>Contacts</h1>
                     <p>Akezhan Issadilov: <b style={{color: '#00838F'}}>akezhan.issadilov@gmail.com</b></p>
-                    <p style={{height: '50vh'}}>Alua Onayeva: <b style={{color: '#00838F'}}>onayeva_alua@mail.ru</b></p>
                     </article>
                     <div style={{display: 'flex', justifyContent: 'center'}}>
                     <ContactForm/>

@@ -17,7 +17,7 @@ function Footer(){
              </div>
              <div>
                  <div align={'center'}>© Get Tickets™ All rights reserved</div><br/>
-                 <div align={'center'} style={{fontSize: '12px'}}><b>Web-service for coding lab 2021 AITU</b><br/><b>Developed in Nur-Sultan, Almaty Qazaqstan</b></div>
+                 <div align={'center'} style={{fontSize: '12px'}}><b>Web-service for coding lab 2021 AITU</b><br/><b>Developed in Nur-Sultan, Qazaqstan</b></div>
              </div>
          </footer>
         </>
