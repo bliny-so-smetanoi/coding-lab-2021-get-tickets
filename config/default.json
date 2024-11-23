@@ -1,6 +1,6 @@
 {
   "port": 5000,
   "jwt": "jwt",
-  "mongoURI": "mongodb+srv://akezhan:akezhan@project.pezm2.mongodb.net/project?retryWrites=true&w=majority",
+  "mongoURI": "",
   "baseURL": "https://localhost:5000"
 }
